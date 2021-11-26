@@ -1,6 +1,6 @@
 # Alo 🗡️
 
-Seja bem vindo ao meu perfil do Github!
+**Seja bem vindo ao meu perfil do Github!**
 
 ## Sobre mim:
 
