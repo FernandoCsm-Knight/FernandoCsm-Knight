@@ -1,3 +1,18 @@
 # Alo 🗡️
 
-![Fernando Campos Silva Dal' Maria](https://user-images.githubusercontent.com/78004034/143582113-ab111824-5953-4a13-baa9-8ba35cbe226a.png)
+Seja bem vindo ao meu perfil do Github!
+
+## Sobre mim:
+
+* 📘 No universo acadêmico sou estudante de **Ciência da Computação** na *Pontífice Universidade Católica de Minas Gerais (PUC-MG)* e antigo estudante de **Medicina** na *Faculdade Ciências Medicas de Minas Gerais (FCMMG)*.
+
+* ⚒️ Com relação à meus projetos, estou desenvolvendo uma comunidade estudantil para facilitar o aprendizado e a interação entre os estudantes do ensino superior. Para saber mais visite o meu site: [Jealous King](https://jealousking.com.br)
+
+* 💻 Meus hobbies são os seguintes: gosto de acompanhar inovações tecnológicas, estudar sobre a anatomia e fisiologia humana, tirar fotografias e jogar jogos de desenvolvedores independentes para me inspirar.
+
+## Contatos:
+
+> Visite meu perfil no [Linkedin](www.linkedin.com/in/fernandocsdm) <br><br>
+Entre em contato pelo [Discord](https://discord.gg/tCyX2AG8AM)
+Visite meu site [Jealous King](https://jealousking.com.br/contato)
+Visite meu canal na [Twitch](https://www.twitch.tv/knight_csm)
