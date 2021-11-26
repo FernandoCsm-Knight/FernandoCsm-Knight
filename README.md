@@ -12,7 +12,7 @@ Seja bem vindo ao meu perfil do Github!
 
 ## Contatos:
 
-> Visite meu perfil no [Linkedin](www.linkedin.com/in/fernandocsdm) <br><br>
-Entre em contato pelo [Discord](https://discord.gg/tCyX2AG8AM)
-Visite meu site [Jealous King](https://jealousking.com.br/contato)
-Visite meu canal na [Twitch](https://www.twitch.tv/knight_csm)
+> Visite meu perfil no [Linkedin](www.linkedin.com/in/fernandocsdm) <br>
+Entre em contato pelo [Discord](https://discord.gg/tCyX2AG8AM) <br>
+Visite meu site [Jealous King](https://jealousking.com.br/contato) <br>
+Visite meu canal na [Twitch](https://www.twitch.tv/knight_csm) <br>
