@@ -4,9 +4,7 @@
 
 ## Sobre mim:
 
-* 📘 No universo acadêmico sou estudante de **Ciência da Computação** na *Pontífice Universidade Católica de Minas Gerais (PUC-MG)* e antigo estudante de **Medicina** na *Faculdade Ciências Medicas de Minas Gerais (FCMMG)*.
-
-* ⚒️ Com relação à meus projetos, estou desenvolvendo uma comunidade estudantil para facilitar o aprendizado e a interação entre os estudantes do ensino superior. Para saber mais visite o meu site: [Jealous King](https://jealousking.com.br)
+* 📘 No universo acadêmico sou estudante de **Ciência da Computação** na *Pontífice Universidade Católica de Minas Gerais (PUC-MG)* e antigo estudante de **Medicina** na *Faculdade Ciências Medicas de Minas Gerais (FCMMG)*. Para saber mais visite o meu site: [Jealous King](https://jealousking.com.br)
 
 * 💻 Meus hobbies são os seguintes: gosto de acompanhar inovações tecnológicas, estudar sobre a anatomia e fisiologia humana, tirar fotografias e jogar jogos de desenvolvedores independentes para me inspirar.
 
