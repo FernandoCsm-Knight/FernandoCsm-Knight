@@ -1,17 +1,20 @@
 # Alo 🗡️
 ## I am FernandoCsm, a Brazilian Computer Science student.
 
-<section style="margin-block: 1.5rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-   <div style="height: 100%; ">
+<section>
+   <br/>
+   <div align="center">
       <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=FernandoCsm-Knight&show_icons=true&theme=tokyonight"/>
    </div>
-   <div>
+   <br/>
+   <div align="center">
       <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCsm-Knight&layout=compact&theme=tokyonight"/>
    </div>
+   <br/>
 </section>
 
-<section style="margin-bottom: 1.5rem;">
-   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+<section>
+   <div align="center">
       <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
       <img style="height: 40px" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
       <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -23,6 +26,8 @@
       <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    </div>
 </section>
+
+![snake gif](https://github.com/FernandoCsm-Knight/FernandoCsm-Knight/blob/output/github-contribution-grid-snake.svg)
 
 ## Global information:
 
