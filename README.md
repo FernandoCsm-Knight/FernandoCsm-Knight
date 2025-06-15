@@ -27,8 +27,6 @@
    </div>
 </section>
 
-![snake gif](https://github.com/FernandoCsm-Knight/FernandoCsm-Knight/blob/output/github-contribution-grid-snake.svg)
-
 ## Global information:
 
 - I like games, movies and music.
