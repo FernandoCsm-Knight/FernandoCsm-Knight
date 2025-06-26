@@ -47,5 +47,3 @@ I love Games, Movies and Songs. I study Photography and, finally, read a bit abo
 ## Attachments:
 
 > [See my Linkedin](www.linkedin.com/in/fernandocsdm) <br>
- [Talk with me through Discord](https://discord.gg/tCyX2AG8AM) <br>
- [See my site Jealous King](https://jealousking.com.br/) <br>
