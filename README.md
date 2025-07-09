@@ -41,7 +41,7 @@
 
 ## Hobbies:
 
-I love Games, Movies and Songs. I study Photography and, finally, read a bit about medicine.
+I love games, movies and songs. I study Photography, machine learning and medicine.
 
 
 ## Attachments:
