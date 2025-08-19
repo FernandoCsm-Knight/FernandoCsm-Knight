@@ -29,6 +29,10 @@
 
 - I like games, movies and music.
 
+- I usually don't know what I'm doing
+
+- My friend has skills
+
 - I am writing this markdown file at 3:44 AM.
 
 - I will not crash my car today.
