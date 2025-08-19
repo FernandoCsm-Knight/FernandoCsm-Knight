@@ -37,7 +37,7 @@
 
 <section>
    <div align="center">
-      <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c3678490-95e3-4afe-8771-5fe6ea497f06" />
+      <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/c3678490-95e3-4afe-8771-5fe6ea497f06" />
    </div>
 </section>
 
