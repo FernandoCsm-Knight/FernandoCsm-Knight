@@ -35,12 +35,15 @@
 
 ## Code exemple:
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c3678490-95e3-4afe-8771-5fe6ea497f06" />
+<section>
+   <div align="center">
+      <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c3678490-95e3-4afe-8771-5fe6ea497f06" />
+   </div>
+</section>
 
 ## Hobbies:
 
 I love games, movies and songs. I study Photography, machine learning and medicine.
-
 
 ## Attachments:
 
