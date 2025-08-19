@@ -29,13 +29,13 @@
 
 - I like games, movies and music.
 
-- I love programming and medicine.
-
-- I love linux and open source code.
-
 - I am writing this markdown file at 3:44 AM.
 
 - I will not crash my car today.
+
+## Code exemple:
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c3678490-95e3-4afe-8771-5fe6ea497f06" />
 
 ## Hobbies:
 
