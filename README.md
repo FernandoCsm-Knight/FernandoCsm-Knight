@@ -51,4 +51,4 @@ I love games, movies and songs. I study Photography, machine learning and medici
 
 ## Attachments:
 
-> ![See my Linkedin](www.linkedin.com/in/fernandocsdm) <br>
+> See my Linkedin: www.linkedin.com/in/fernandocsdm
