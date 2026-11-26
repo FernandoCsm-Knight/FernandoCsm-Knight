@@ -1,54 +1,52 @@
-# Alo 🗡️
-## I am FernandoCsm, a Brazilian Computer Science student.
+<div align="center">
 
-<section>
-   <br/>
-   <div align="center">
-      <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=FernandoCsm-Knight&show_icons=true&theme=tokyonight"/>
-   </div>
-   <br/>
-   <div align="center">
-      <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCsm-Knight&layout=compact&theme=tokyonight"/>
-   </div>
-   <br/>
-</section>
+# Hi, I'm Fernando! 👋
 
-<section>
-   <div align="center">
-      <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-      <img style="height: 40px" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-      <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img style="height: 40px" alt="TypeScript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img style="height: 40px" alt="JavaScript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img style="height: 40px" alt="Rust Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />   
-   </div>
-</section>
+**Computer Science student at PUC Minas** · Belo Horizonte, Brazil
 
-## Global information:
+[![Website](https://img.shields.io/badge/Website-fernandocsdm.com-181717?style=flat-square&logo=google-chrome&logoColor=white)](https://fernandocsdm.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandocsdm)
 
-- I like games, movies and music.
+</div>
 
-- I usually don't know what I'm doing
+## About me
 
-- My friend has skills
+I enjoy turning ideas into software and understanding how complex systems work from the inside out. My current interests include machine learning, computer graphics, parallel computing, and software engineering.
 
-- I am writing this markdown file at 3:44 AM.
+- 🎓 Studying Computer Science at PUC Minas
+- 🧠 Interested in artificial intelligence and data science
+- 📷 Exploring photography, music, and medicine as personal interests
+- 🛠️ Learning through practical projects and coursework
 
-- I will not crash my car today.
+## Featured projects
 
-## Code exemple:
+| Project | Description | Main language |
+| :--- | :--- | :--- |
+| [Pineapple](https://github.com/FernandoCsm-Knight/Pineapple) | A machine learning framework implemented in C++ | C++ |
+| [Stellar-Classification](https://github.com/FernandoCsm-Knight/Stellar-Classification) | Machine learning experiments for stellar classification | Python |
+| [Parallel-Computing](https://github.com/FernandoCsm-Knight/Parallel-Computing) | Coursework and experiments using parallel programming techniques | C++ |
+| [Portfolio](https://github.com/FernandoCsm-Knight/Portfolio) | My personal web portfolio | HTML |
 
-<section>
-   <div align="center">
-      <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/c3678490-95e3-4afe-8771-5fe6ea497f06" />
-   </div>
-</section>
+## Technologies
 
-## Hobbies:
+<div align="center">
 
-I love games, movies and songs. I study Photography, machine learning and medicine.
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg)
 
-## Attachments:
+</div>
 
-> See my Linkedin: www.linkedin.com/in/fernandocsdm
+## GitHub statistics
+
+<div align="center">
+
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoCsm-Knight&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCsm-Knight&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
