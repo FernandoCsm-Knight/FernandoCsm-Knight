@@ -44,9 +44,16 @@ I enjoy turning ideas into software and understanding how complex systems work f
 
 <div align="center">
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoCsm-Knight&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCsm-Knight&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FernandoCsm-Knight&show_icons=true&theme=tokyonight&hide_border=true" alt="Fernando's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCsm-Knight&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+    </td>
+  </tr>
+</table>
 
 ![Fernando's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoCsm-Knight&theme=tokyo-night&hide_border=true)
 
