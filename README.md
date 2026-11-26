@@ -29,7 +29,7 @@ I enjoy turning ideas into software and understanding how complex systems work f
 
 ## Technologies
 
-<div align="center">
+<div style="display: flex">
 
 ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
 ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
