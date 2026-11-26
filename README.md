@@ -4,8 +4,7 @@
 
 **Computer Science student at PUC Minas** · Belo Horizonte, Brazil
 
-[[Website](https://img.shields.io/badge/Website-fernandocsdm.com-181717?style=flat-square&logo=google-chrome&logoColor=white)](https://fernandocsdm.com)
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandocsdm)
+[Website](https://fernandocsdm.com) · [LinkedIn](https://www.linkedin.com/in/fernandocsdm)
 
 </div>
 
